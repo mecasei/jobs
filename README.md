@@ -1,4 +1,4 @@
-# Mecasei.com procura talento potencial: Ruby/Rails Developer
+# Procuramos talento potencial: Ruby/Rails Developer
 
 ## Sobre nós e a oportunidade
 
