@@ -1,4 +1,4 @@
-# Procuramos talento potencial: Ruby/Rails Developer
+# Procuramos talento potencial: Ruby Developer
 
 ## Sobre nós e a oportunidade
 
