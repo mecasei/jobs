@@ -32,7 +32,7 @@ Um talento potencial que seja apaixonado por criar experiências memoráveis aos
 - Tenha conhecimento de desenvolvimento de soluções web;
 - Seja apaixonado por desenvolvimento de software;
 - Contribuí ou tem o desejo de contribuir com projetos open-source;
-- Se procura procura um ótimo ambiente para trabalhar muito bem como parte de um time;
+- Se procura um ótimo ambiente para trabalhar muito bem como parte de um time;
 
 ## Bonus points:
 - Possua experiência com Ruby/Rails
