@@ -22,7 +22,7 @@ Um talento potencial que seja apaixonado por criar experiências memoráveis aos
 
 - Trabalhe de casa (remoto)
 - Confiança e liberdade
-- Bolsa auxílio de R$ 1.600,00
+- Bolsa auxílio de R$ 2.500,00
 - 30 horas semanais (você define a sua agenda)
 - Bônus (R$) semestrais com base no resultado da Startup
 - Participações em eventos e incentivos financeiros a leitura e aprendizado
