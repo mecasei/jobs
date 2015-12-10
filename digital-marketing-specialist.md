@@ -15,8 +15,8 @@ A Mecasei.com recebeu o prêmio [Top de Marketing da ADBV](http://www.advb.com.b
 
 ## O que procuramos?
 Um talento potencial que seja apaixonado por criar experiências memoráveis aos clientes através da entrega da nossa proposta de valor a potenciais clientes. Tenha disposição para construir uma nova cultura dentro de uma empresa nascente e se tornar uma futura liderança. Buscamos paixão por aprender acima de conhecimento "consolidado". Queremos pessoas com desejo de aprender e empreender dentro de uma empresa de tecnologia e que cresce em ritmo acelerado.
-- Pró-atividade e capacidade de trabalhar de forma colaborativa.
 - [Inbound Marketing](http://www.hubspot.com/inbound-marketing)
+- Pró-atividade e capacidade de trabalhar de forma colaborativa.
 - Excelentes habilidades de comunicação, tanto verbal quanto escrita
 - Pensamento criativo e analítico para produzir novas ideias e conceitos para campanhas
 - Web Analytics
