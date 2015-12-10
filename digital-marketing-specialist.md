@@ -28,7 +28,7 @@ Um talento potencial que seja apaixonado por criar experiências memoráveis aos
 - SEO
 - SEM
 - Inglês
-- Conhecimento em ferramentas de edição (o básico) 
+- Conhecimento em ferramentas de edição de imagens (Photoshop, Illustrator, etc) 
 - Tenha um site ou blog próprio
 
 ## O que oferecemos?
