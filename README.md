@@ -1,1 +1,3 @@
-Fique a vontade para escrever para nós em jobs@mecasei.com :)
+Oportunidades no Mecasei.com:
+
+- [Digital Marketing Specialist](https://github.com/Mecasei/jobs/blob/master/developer.md)
