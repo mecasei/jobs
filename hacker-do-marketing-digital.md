@@ -2,7 +2,7 @@
 
 ## Sobre nós e a oportunidade
 
-- Job: Digital Marketing Specialist
+- Job: Hacker do Marketing Digital 
 - [Mecasei.com](https://mecasei.com): O Melhor Amigo dos Noivos
 - Headquarters: Unisinos (Tecnosinos) - São Leopoldo, Rio Grande do Sul
 
@@ -32,10 +32,12 @@ Um talento potencial que seja apaixonado por criar experiências memoráveis aos
 - Tenha um site ou blog próprio
 
 ## O que oferecemos?
+- Trabalho remoto
 - Flexibilidade de horários 
 - Confiança e liberdade
+- Incentivo a participação de eventos e compra de livros
 - Bônus (R$) por metas
-- Participações em eventos e incentivos financeiros a leitura e aprendizado
+- Campeonato mundial e internacional de Just Dance e Fifa 2016
 
 ## Entre em contato:
 - Se você busca uma experiência profissional desafiadora;
