@@ -14,7 +14,8 @@ Esta é uma oportunidade que envolverá acima de tudo aprendizado e o desafio de
 
 ## O que procuramos?
 Um talento potencial que seja apaixonado por criar experiências memoráveis aos clientes através da entrega da nossa proposta de valor. Buscamos paixão por aprender acima de conhecimento "consolidado". Queremos pessoas com desejo de aprender e empreender dentro de uma empresa de tecnologia e que cresce em ritmo acelerado.
-- Ótima redação e comunicação;
+- Ser da área de comunicação;
+- Ótima redação;
 - O assunto CASAMENTO tem que te interessar;
 - Pró-atividade e capacidade de trabalhar de forma colaborativa e sem chefe;
 - Heavy User de Internet;
