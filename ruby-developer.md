@@ -9,7 +9,7 @@ O Mecasei.com é uma ambiciosa Startup que facilita o planejamento e a organiza�
 Nós estamos evoluindo dia-a-dia a nossa plataforma (web e mobile) que utiliza das seguintes tecnologias on the edge: Ruby, Rails, Javascript, AWS, Memcached, Nginx, Git/Github, Angular/Ionic, além de técnicas de NLP e AI para desenvolvimento de agentes conversacionais inteligentes e afetivos.
 
 ## Por que você deveria trabalhar conosco?
-Esta é uma oportunidade que envolverá acima de tudo aprendizado e o desafio de consolidar e evoluir uma plataforma que cresce dia-a-dia. Você como nosso primeiro desenvolvedor, encontrará um ambiente de muitos desafios e oportunidades, espaço de muita criatividade e pró-atividade. E a oportunidade de criarmos juntos um negócio visionário. 
+Esta é uma oportunidade que envolverá acima de tudo aprendizado e o desafio de consolidar e evoluir uma plataforma que cresce dia-a-dia. Você como engenheirx de software, encontrará um ambiente de muitos desafios e oportunidades, espaço de muita criatividade e pró-atividade. E a oportunidade de criarmos juntos um negócio visionário. 
 
 ## O que procuramos?
 Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiências memoráveis aos clientes através de uma contínua entrega de valor. Tenha disposição para construir uma nova cultura dentro de uma empresa nascente e se tornar uma futura liderança. Buscamos paixão por aprender acima de conhecimento "consolidado".
