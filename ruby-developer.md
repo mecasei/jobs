@@ -21,6 +21,7 @@ Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiênci
 - Entre em contato:
 - Se você busca uma experiência profissional desafiadora para consolidar seus estudos;
 - Tenha conhecimento de desenvolvimento de soluções web;
+- Benefícios usuais (VR, VT ou estacionamento)
 - Seja apaixonada por desenvolvimento de software;
 - Contribuí ou tem o desejo de contribuir com projetos open-source;
 - Se procura um ótimo ambiente para trabalhar muito bem como parte de um time;
@@ -32,3 +33,5 @@ Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiênci
 - Tenha um site ou blog próprio
 - Já tenha lançado algum produto antes
 - Inglês
+
+Interessadx? Envie o seu Linkedin/Github com uma breve descrição dos seus objetivos - e porque você é a pessoa certa para o Mecasei.com, para jobs@mecasei.com com o assunto Ruby Developer.
