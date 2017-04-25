@@ -23,7 +23,7 @@ Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiênci
 - Se você busca uma experiência profissional desafiadora para consolidar seus estudos;
 - Tenha conhecimento de desenvolvimento de soluções web;
 - Benefícios usuais (VR, VT ou estacionamento)
-- Seja apaixonada por desenvolvimento de software;
+- Seja apaixonadx por desenvolvimento de software;
 - Contribuí ou tem o desejo de contribuir com projetos open-source;
 - Se procura um ótimo ambiente para trabalhar muito bem como parte de um time;
 
