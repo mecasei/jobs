@@ -14,6 +14,17 @@ Esta é uma oportunidade que envolverá acima de tudo aprendizado e o desafio de
 ## O que procuramos?
 Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiências memoráveis aos clientes através de uma contínua entrega de valor. Tenha disposição para construir uma nova cultura dentro de uma empresa nascente e se tornar uma futura liderança. Buscamos paixão por aprender acima de conhecimento "consolidado".
 
+- Ser apaixonadx por produtos digitais e tecnologia
+- Escrever código limpo e legível para pessoas
+- +2 anos de experiência  em Ruby
+- Conhecimentos de práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
+- Conhecimentos de testes unitários, aceitação, mocks, etc
+- Conhecimentos em Cloud Computing
+- Experiência integrando com 3rd party APIs
+- Princípios de design orientado a objetos
+- Javascript/Node.js
+- HTML5/CSS3
+
 ## O que oferecemos?
 - Ambiente informal e de constantes desafios e aprendizado
 - Confiança e liberdade
