@@ -4,7 +4,11 @@ São Leopoldo, Rio Grande do Sul, Brasil
 ## Sobre nós e a oportunidade
 Mecasei.com
 Headquarters: São Leopoldo (Tecnosinos/Unisinos), Rio Grande do Sul
+
+
+
 https://mecasei.com
+
 O Mecasei.com é uma ambiciosa Startup que facilita o planejamento e a organização de milhares de casamentos: eventos românticos, sentimentais e transformadores. Consolidada em 2017 como a maior plataforma de casamentos nacional, como melhor amigo dos noivos, o Mecasei.com facilita a longa jornada dos noivos até o altar - e além. Com uma plataforma tecnológica moderna e uma experiência pessoal e humana, nós estamos juntos aos noivos em todo os momentos.
 Nós estamos evoluindo dia-a-dia a nossa plataforma (web e mobile) que utiliza das seguintes tecnologias on the edge: Ruby, Rails, Javascript, AWS, Memcached, Nginx, Git/Github, Angular/Ionic, além de técnicas de NLP e AI para desenvolvimento de agentes conversacionais inteligentes e afetivos.
 
