@@ -6,7 +6,7 @@
 - [Mecasei.com](https://mecasei.com): O Melhor Amigo dos Noivos
 - Headquarters: Unisinos (Tecnosinos) - São Leopoldo, Rio Grande do Sul
 
-Somos uma startup jovem e nossa missão é ser os melhores dos noivos. O Mecasei.com é uma plataforma on-line que ajuda os noivos em todas as etapas de planejamento e organização de seus casamentos. Somos uma empresa a favor do amor e estamos à procura de pessoas que gostem de se relacionar com clientes e que consigam resolver grandes problemas rapidamente e com competência.
+Somos uma startup jovem e nossa missão é ser o melhor amigo dos noivos. O Mecasei.com é uma plataforma on-line que ajuda os noivos em todas as etapas de planejamento e organização de seus casamentos. Somos uma empresa a favor do amor e estamos à procura de pessoas que gostem de se relacionar com clientes e que consigam resolver grandes problemas rapidamente e com competência.
 
 ## Por que você deveria trabalhar conosco?
 
