@@ -35,4 +35,4 @@ Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiênci
 - Já tenha lançado algum produto antes
 - Inglês
 
-Interessadx? Envie o seu Linkedin/Github com uma breve descrição dos seus objetivos - e porque você é a pessoa certa para o Mecasei.com, para jobs@mecasei.com com o assunto Ruby Developer.
+### Interessadx? Envie o seu Linkedin/Github com uma breve descrição dos seus objetivos - e porque você é a pessoa certa para o Mecasei.com, para jobs@mecasei.com com o assunto Ruby Developer.
