@@ -18,7 +18,8 @@ Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiênci
 - Ambiente informal e de constantes desafios e aprendizado
 - Confiança e liberdade
 - Participações em eventos e incentivos financeiros a leitura e desenvolvimento pessoal
-- Entre em contato:
+
+## Entre em contato:
 - Se você busca uma experiência profissional desafiadora para consolidar seus estudos;
 - Tenha conhecimento de desenvolvimento de soluções web;
 - Benefícios usuais (VR, VT ou estacionamento)
