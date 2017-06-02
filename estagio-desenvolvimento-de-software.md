@@ -12,9 +12,10 @@ Esta é uma oportunidade que envolverá acima de tudo aprendizado e o desafio de
 Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiências memoráveis aos clientes através de uma contínua entrega de valor. Tenha disposição para construir uma nova cultura dentro de uma empresa nascente e se tornar uma futura liderança. Buscamos paixão por aprender acima de conhecimento "consolidado".
 
 ## O que oferecemos?
-- Ambiente informal e de constantes desafios e aprendizado
-- Confiança e liberdade
-- Participações em eventos e incentivos financeiros a leitura e desenvolvimento pessoal
+- Bolsa auxílio;
+- Ambiente informal e de constantes desafios e aprendizado;
+- Confiança e liberdade;
+- Participações em eventos e incentivos financeiros a leitura e desenvolvimento pessoal.
 
 ## Entre em contato:
 - Se você busca uma experiência profissional desafiadora para consolidar seus estudos;
