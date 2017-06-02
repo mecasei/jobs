@@ -33,6 +33,7 @@ Sua principal missão é ser x melhor amigx dos noivos ;)
 - Gostar de escrever artigos; (Blog, jornais, revistas,  etc)
 
 ## O que oferecemos?
+- Bolsa auxílio;
 - Ambiente descolado e de inovação com pessoas super divertidas e inteligentes;
 - Guloseimas a vontade;
 - Benefícios como vale transporte e vale refeição;
