@@ -1,4 +1,3 @@
-Oportunidades no Mecasei.com:
+Oportunidades na Wedy:
 
-- [Estágio Customer Success](https://github.com/mecasei/jobs/blob/master/estagiario-customer-success.md)
-- [Marketing, Software Engineering & Design](http://mecasei.workable.com)
+- [Software Engineer](https://github.com/mecasei/jobs/blob/master/software-engineer.md)
