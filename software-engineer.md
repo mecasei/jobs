@@ -44,5 +44,5 @@ Normalmente leva entre 15-20 dias e segue os seguintes passos:
 4. Checagem de referências e revisão do desafio
 5. Oferta
 
-## Dúvidas?
+## Tá afim?
 Escreva para daniel@wedy.com
