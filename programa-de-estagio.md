@@ -28,7 +28,8 @@ Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiênci
 - WedyTalks
 
 ## Entre em contato:
-- Se você busca uma experiência profissional desafiadora para consolidar seus estudos;
+- Se você está cursando Ciência da Computação, Sistemas de Informação e cursos relacionados;
+- Busca uma experiência profissional desafiadora para consolidar seus estudos;
 - Tenha conhecimento de desenvolvimento de soluções web;
 - Seja uma pessoa apaixonada por desenvolvimento de software;
 - Contribuí ou tem o desejo de contribuir com projetos open-source;
