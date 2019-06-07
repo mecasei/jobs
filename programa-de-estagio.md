@@ -7,7 +7,8 @@ A plataforma digital Wedy é composta por diversos micro-serviços, envolvendo t
 Por que você deveria conhecer e fazer parte da Wedy? Esta é uma oportunidade que envolverá acima de tudo aprendizado e o desafio de consolidar e evoluir uma plataforma que cresce dia-a-dia. Você como engenheiro de software, encontrará um ambiente de muitos desafios e oportunidades, espaço de muita criatividade e pró-atividade. E a oportunidade de escalarmos juntos um negócio visionário.
 
 Trabalhe em pequenos squads, realizando tomadas de decisões rápidas e criando novos produtos de alto-impacto
-Tenha oportunidade de trabalhar em outras funções, de design, growth, negócios e ciência de dados
+Tenha oportunidade de trabalhar em outras funções, de design, growth, negócios e ciência de dados.
+
 Faça parte de um ambiente informal, orientado a resultados e com uma hierarquia horizontal
 
 ## Por que você deveria trabalhar conosco?
