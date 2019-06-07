@@ -22,7 +22,6 @@ Uma pessoa talentosa e com potencial - que seja apaixonada por criar experiênci
 - Ambiente divertido, colaborativo e rápido - com uma equipe de pessoas inteligentes e ambiciosas
 - Oportunidade de crescimento rápido
 - Confiança e liberdade
-- Alimentação/transporte/convênio médico sem descontos
 - Participações em eventos e incentivos financeiros a leitura e desenvolvimento pessoal
 - Snacks
 - Games, roda de violão, massagens, biblioteca e filmes
